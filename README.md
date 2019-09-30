@@ -72,7 +72,14 @@ Interactive environment
 
      - song title indicator
      
-**Climate Data Visualization Tool**
-https://phys.org/news/2018-10-professor-climate-visualization-tool-reveal.html
+**PolarGlobe**
+http://cici.lab.asu.edu/polarglobe/
 
-Type
+Datasets panel
+Data visualization behavior panel
+- Date indicator
+- Run/Pause button
+- Dataset variable indicator
+- Dataset variable controls
+- FPS indicator
+- Map control buttons
