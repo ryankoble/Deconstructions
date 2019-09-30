@@ -16,7 +16,8 @@ Viisualizer
 - music player
 - "STREAM" button
 - background patterns  
-
+  
+  
 **Braille Face Koya**  
 https://koya.brailleface.co/
 
@@ -41,7 +42,8 @@ Interactive environment
 - links to "About" page
 - time indicator
 - song title indicator  
-
+  
+  
 **PolarGlobe**  
 http://cici.lab.asu.edu/polarglobe/
 
