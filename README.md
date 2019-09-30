@@ -26,7 +26,8 @@ Viisualizer
 
      - "STREAM" button
 
-     - background patterns\s\s
+     - background patterns
+\s\s
 
 
 **Braille Face Koya**
