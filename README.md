@@ -26,7 +26,8 @@ Viisualizer
 
      - "STREAM" button
 
-     - background patterns  
+     - background patterns
+
 **Braille Face Koya**
 https://koya.brailleface.co/
 
@@ -70,4 +71,8 @@ Interactive environment
      - time indicator
 
      - song title indicator
+     
+**Climate Data Visualization Tool**
+https://phys.org/news/2018-10-professor-climate-visualization-tool-reveal.html
 
+Type
