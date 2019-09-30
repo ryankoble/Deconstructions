@@ -47,10 +47,14 @@ http://cici.lab.asu.edu/polarglobe/
 
 Datasets (panel)  
 
+About Us / QuickStart / Help (links)  
+
 Data Visualization Behavior (panel)
 - Date indicator
 - Run/Pause button
 - Dataset variable indicator
 - Dataset variable controls
 - FPS indicator
-- Map control buttons
+- Map control buttons  
+
+Variable Visualizer Legend (panel)  
