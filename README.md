@@ -3,16 +3,16 @@
 **Bon Iver Viisualizer**
 https://boniver.withspotify.com/
 
-Welcome
+<p> Welcome
 
      - i,i animation
 
      - other graphics
 
-     - description with "ENTER" button
+     - description with "ENTER" button </p>
 
 
-•Viisualizer
+Viisualizer
 
      - info panel
 
@@ -32,7 +32,7 @@ Welcome
 **Braille Face Koya**
 https://koya.brailleface.co/
 
-• Welcome
+Welcome
 
      - image
 
@@ -41,7 +41,7 @@ https://koya.brailleface.co/
      - "PLAY" button
 
 
-• Interactive environment
+Interactive environment
 
      - collection of environments
 
