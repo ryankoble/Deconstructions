@@ -6,7 +6,8 @@ https://boniver.withspotify.com/
 Welcome
 - i,i animation
 - Other graphics
-- Description with "ENTER" button  
+- Description with "ENTER" button 
+
 Viisualizer
 - info panel
 - zoom buttons
