@@ -4,30 +4,17 @@
 https://boniver.withspotify.com/
 
 Welcome
-
-     - i,i animation
-
-     - other graphics
-
-     - description with "ENTER" button
-
-
+- i,i animation
+- Other graphics
+- Description with "ENTER" button  
 Viisualizer
-
-     - info panel
-
-     - zoom buttons
-
-     - gallery of graphics
-
-     - "SHARE" button
-
-     - music player
-
-     - "STREAM" button
-
-     - background patterns
-
+- info panel
+- zoom buttons
+- gallery of graphics
+- "SHARE" button
+- music player
+- "STREAM" button
+- background patterns  
 **Braille Face Koya**  
 https://koya.brailleface.co/
 
