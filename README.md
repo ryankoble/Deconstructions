@@ -3,13 +3,13 @@
 **Bon Iver Viisualizer**
 https://boniver.withspotify.com/
 
-<p> Welcome
+Welcome
 
      - i,i animation
 
      - other graphics
 
-     - description with "ENTER" button </p>
+     - description with "ENTER" button
 
 
 Viisualizer
@@ -26,7 +26,7 @@ Viisualizer
 
      - "STREAM" button
 
-     - background patterns  
+     - background patterns\s\s
 
 
 **Braille Face Koya**
