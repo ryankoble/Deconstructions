@@ -27,9 +27,7 @@ Viisualizer
      - "STREAM" button
 
      - background patterns  
-  
-  
-  
+     
 **Braille Face Koya**
 https://koya.brailleface.co/
 
