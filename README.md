@@ -26,10 +26,7 @@ Welcome
 
      - "STREAM" button
 
-     - background patterns
-
-
-
+     - background patterns  
 
 
 **Braille Face Koya**
