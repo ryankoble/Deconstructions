@@ -1,6 +1,6 @@
-# CP2-HW1
+# DECONSTRUCTIONS
 
-**PROJECT 1 // Bon Iver Viisualizer**
+**Bon Iver Viisualizer**
 https://boniver.withspotify.com/
 
 Welcome
@@ -30,7 +30,9 @@ Welcome
 
 
 
-**PROJECT 2 // Braille Face Koya**
+
+
+**Braille Face Koya**
 https://koya.brailleface.co/
 
 • Welcome
