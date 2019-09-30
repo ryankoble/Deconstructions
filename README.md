@@ -75,7 +75,7 @@ Interactive environment
 **PolarGlobe**
 http://cici.lab.asu.edu/polarglobe/
 
-Datasets panel
+Datasets panel  
 Data visualization behavior panel
 - Date indicator
 - Run/Pause button
