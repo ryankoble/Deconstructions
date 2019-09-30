@@ -1,6 +1,6 @@
 # Deconstructions
 
-**Bon Iver Viisualizer**
+**Bon Iver Viisualizer**  
 https://boniver.withspotify.com/
 
 Welcome
@@ -28,7 +28,7 @@ Viisualizer
 
      - background patterns
 
-**Braille Face Koya**
+**Braille Face Koya**  
 https://koya.brailleface.co/
 
 Welcome
@@ -72,7 +72,7 @@ Interactive environment
 
      - song title indicator
      
-**PolarGlobe**
+**PolarGlobe**  
 http://cici.lab.asu.edu/polarglobe/
 
 Datasets panel  
