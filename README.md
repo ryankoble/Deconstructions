@@ -45,7 +45,9 @@ Interactive environment
 **PolarGlobe**  
 http://cici.lab.asu.edu/polarglobe/
 
-Datasets (panel)  
+Datasets (panel)
+- Climate data parameters
+- Date tags for data records
 
 About Us / QuickStart / Help (links)  
 
@@ -58,3 +60,10 @@ Data Visualization Behavior (panel)
 - Map control buttons  
 
 Variable Visualizer Legend (panel)  
+
+Globe
+- Sphere overlaid with plane
+- Latitude
+- Longitude
+- Distance from surface
+- Content defined by parameters in Data Visualization Behavior panel
