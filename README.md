@@ -67,3 +67,28 @@ Globe
 - Longitude
 - Distance from surface
 - Content defined by parameters in Data Visualization Behavior panel
+
+**Google Keep**
+
+Search Bar
+- words searched are identified in notes
+
+Menu
+- Reminders
+- Labels for notes
+- Archive
+- Trash
+- Settings
+- Help & Feedback
+
+Note-making Bar
+- Checkbox button
+- Drawing button
+- Audio button
+- Image button
+
+Notes
+- Back button
+- Pin
+- Reminder
+- Archive button
