@@ -70,6 +70,8 @@ Globe
 
 **Google Keep**
 
+COMPONENTS
+
 Search Bar
 - words searched are identified in notes
 
@@ -92,3 +94,11 @@ Notes
 - Pin
 - Reminder
 - Archive button
+- Add button
+- Settings button
+
+
+USER INPUT
+
+- Users type in keywords in search bar
+- Users type in nnotes
