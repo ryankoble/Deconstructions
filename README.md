@@ -102,3 +102,7 @@ USER INPUT
 
 - Users type in keywords in search bar
 - Users type in nnotes
+
+DATA
+
+RENDER
