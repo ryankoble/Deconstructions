@@ -101,8 +101,12 @@ Notes
 USER INPUT
 
 - Users type in keywords in search bar
-- Users type in nnotes
+- Users type in notes
 
-DATA
+**The Catacombs of Solaris**
+https://ianmaclarty.itch.io/catacombs-of-solaris
 
-RENDER
+USER INPUT
+
+- Mouse changes camera angle
+- WASD moves camera
