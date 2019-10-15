@@ -110,3 +110,13 @@ USER INPUT
 
 - Mouse changes camera angle
 - WASD moves camera
+
+COMPONENTS
+
+- Tunnels: four faces containing grid of random color pixels
+
+DATA
+
+- Number of present tunnels
+- Location of tunnels compared to camera
+- Array of random color pixels, in arrays as walls
